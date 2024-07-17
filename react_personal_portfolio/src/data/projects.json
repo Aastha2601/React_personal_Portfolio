@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/project1.png",
+      "description": "This is a project made to learn the latest languages by building a restaurant website.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://github.com/Aastha2601/restaurant_website",
+      "source": "https://github.com/Aastha2601/restaurant_website.git"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project1.png",
+      "description": "This is a project made to learn the latest languages by building a personal portfolio.",
+      "skills": ["HTML", "CSS","React"],
+      "demo": "https://github.com/Aastha2601/Aasthaa-s-Portfolio",
+      "source": "https://github.com/Aastha2601/Aasthaa-s-Portfolio.git"
+    }
+  ]
